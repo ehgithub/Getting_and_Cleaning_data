@@ -146,7 +146,7 @@ For this purpose use laply command.
  
  Note: command to read the final file should be data <- read.table(“data_final.txt”, header = TRUE)
 
-Explanation of data_final.txt file can be found in the cook book file in this repo.
+Explanation of data_final.txt file can be found in the codebook file in this repo. 
 
 
   [1]: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
